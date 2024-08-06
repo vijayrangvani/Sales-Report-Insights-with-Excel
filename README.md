@@ -1,5 +1,6 @@
 # Sales_Analytics
 Domain - FMCG
+
 🔍 Project Snapshot: I've crafted a robust sales report using Excel's pivot tables, and it's a real game-changer for businesses. This report isn't just about numbers, it's a insights that will help businesses up their game.
 
 💡 What It Does: With this sales report, businesses can:
